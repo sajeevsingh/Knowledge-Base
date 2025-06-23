@@ -1,0 +1,26 @@
+How do I reset my password?
+To reset your password, click on the "Forgot Password?" link on the login page. Enter your registered email address and follow the instructions in the email we send you.
+
+How do I update my billing information?
+You can update your billing information by going to the "Account Settings" section and selecting "Payment Methods." From there, you can edit, remove, or add a new credit card or billing address.
+
+Can I cancel my subscription anytime?
+Yes, you may cancel your subscription at any time from the "Billing" section of your account dashboard. Once canceled, your access will continue until the end of your billing period.
+
+What is your refund policy?
+We offer a 30-day money-back guarantee for all new customers. If you're not satisfied with the service, please contact support within 30 days of your purchase to request a refund.
+
+How long does it take to receive a refund?
+Refunds are typically processed within 5–7 business days after approval. The actual time may vary depending on your bank or credit card provider.
+
+Do you offer phone support?
+At this time, we offer support via email and live chat only. You can reach out to our team through the “Help” section of your account for immediate assistance.
+
+Where can I find my invoices?
+Invoices are available in the "Billing History" section of your account. You can download PDF copies for your records at any time.
+
+How do I change my email address?
+To change your email address, navigate to "Profile Settings" and select "Update Email." You may be asked to re-authenticate before the change is applied.
+
+Is my data secure?
+Yes, we take data security very seriously. All user data is encrypted in transit and at rest, and we comply with major data protection regulations including GDPR and CCPA.
